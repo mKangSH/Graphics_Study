@@ -191,8 +191,8 @@ void myGlutDisplay(void)
 		}
 
 		
-		drawBody(); // ¸ö
-		glPushMatrix(); // ¾ó±¼
+		drawBody(); // ëª¸
+		glPushMatrix(); // ì–¼êµ´
 		glTranslatef(0.0f, 3.5f, 0.0f);
 		switch (j)
 		{
@@ -208,42 +208,42 @@ void myGlutDisplay(void)
 		}
 		glPopMatrix();
 		
-		glPushMatrix();  // ¿ÞÂÊ ¾î±ú
+		glPushMatrix();  // ì™¼ìª½ ì–´ê¹¨
 		glTranslatef(-1.0f, 2.7f, 0.0f);
 		glRotatef(180.0f - animRotate, 0, 0, 1.0f);
 		drawArm();
-			glPushMatrix(); // ¿ÞÂÊ ÆÈ
+			glPushMatrix(); // ì™¼ìª½ íŒ”
 			glTranslatef(0.0f, 1.5f, 0.0f);
 			drawArm();
 			glPopMatrix();
 		glPopMatrix();
 		
-		glPushMatrix();  // ¿À¸¥ÂÊ ¾î±ú
+		glPushMatrix();  // ì˜¤ë¥¸ìª½ ì–´ê¹¨
 		glTranslatef(1.0f, 2.7f, 0.0f);
 		glRotatef(-180 + animRotate, 0, 0, 1.0f);
 		drawArm();
-			glPushMatrix(); // ¿À¸¥ÂÊ ÆÈ
+			glPushMatrix(); // ì˜¤ë¥¸ìª½ íŒ”
 			glTranslatef(0.0f, 1.5f, 0.0f);
 			drawArm();
 			glPopMatrix();
 		glPopMatrix();
 
-		glPushMatrix();  // ¿ÞÂÊ Çã¹÷Áö
+		glPushMatrix();  // ì™¼ìª½ í—ˆë²…ì§€
 		glTranslatef(-0.7f - (animRotate/ 90), -1.5f, 0.0f);
 		glRotatef(animRotate / 2, 0, 0, -1.0f);
 		drawArm();
-			glPushMatrix(); // ¿ÞÂÊ ´Ù¸®
+			glPushMatrix(); // ì™¼ìª½ ë‹¤ë¦¬
 			glTranslatef(0.0f, -1.5f, 0.0f);
 			
 			drawArm();
 			glPopMatrix();
 		glPopMatrix();
 		
-		glPushMatrix();  // ¿À¸¥ÂÊ Çã¹÷Áö
+		glPushMatrix();  // ì˜¤ë¥¸ìª½ í—ˆë²…ì§€
 		glTranslatef(0.7f+(animRotate / 90), -1.5f, 0.0f);
 		glRotatef(-animRotate / 2, 0, 0, -1.0f);
 		drawArm();
-			glPushMatrix(); // ¿À¸¥ÂÊ ´Ù¸®
+			glPushMatrix(); // ì˜¤ë¥¸ìª½ ë‹¤ë¦¬
 			glTranslatef(0.0f, -1.5f, 0.0f);
 			
 			drawArm();
