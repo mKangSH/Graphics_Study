@@ -1,5 +1,5 @@
 # Graphics_Study
-- Computer Graphics (OpenGL, Directx11)
+- Computer Graphics (Directx11, Vulkan)
 
 # Real-Time Rendering contents
 1. Introduction (skip)
