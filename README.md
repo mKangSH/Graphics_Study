@@ -3,7 +3,7 @@
 - DirectX11, Vulkan Study(2022-11-11~)
 
 # Real-Time Rendering contents
-## (initial update 2022-11-10)
+### (initial update 2022-11-10)
 1. Introduction (skip)
 2. Graphic Pipeline (need to upload)
 3. Transform (need to upload)
