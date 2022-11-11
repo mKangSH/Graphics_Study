@@ -1,5 +1,5 @@
 # Graphics_Study
-- Computer Graphics (Directx11, Vulkan)
+- Computer Graphics (DirectX, Vulkan)
 - DirectX11, Vulkan Study(2022-11-11~)
 
 # Real-Time Rendering contents
