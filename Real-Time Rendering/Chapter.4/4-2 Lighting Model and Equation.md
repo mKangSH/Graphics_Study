@@ -9,7 +9,7 @@
 - 반사된 빛은 표면 법선 벡터와 광원 벡터 사이의 코사인 값에 의해 결정됨 (Lambert 법칙)   
 - $i_{diff} = \textbf{n} \cdot \textbf{l} = cos \phi$
     - if $\phi > \pi / 2$, then $i_{diff} = 0 $
-    - 광선 간 거리가 _l_ 인 경우, 표면에서 그 거리는 $ l /cos \phi$
+    - 광선 간 거리가 _l_ 인 경우, 표면에서 그 거리는 $ l/cos \phi $
 ### 난반사 조명 처리식 (색상 포함)
 - $\textbf{i}_{diff} = max((\textbf{n} \cdot \textbf{l}), 0)\textbf{m}_{diff}\otimes \textbf{s}_{diff}$
     - $\textbf{m}_{diff}$: 물질의 난반사 색상, $\textbf{s}_{diff}$: 광원의 난반사 색상, $\otimes$: 성분곱 기호(hadamard product symbol)
