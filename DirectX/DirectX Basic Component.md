@@ -22,22 +22,37 @@
 ```
 2. 디바이스 생성
 // Check WARP device
-D3D12CreateDevice({adapter}, {D3D_FEATURE_LEVEL}, {REFIID: Globally Unique Identifier}, {ppDevice})
+D3D12CreateDevice
+(
+    {adapter}, {D3D_FEATURE_LEVEL}, 
+    {REFIID: Globally Unique Identifier}, {ppDevice}
+)
 
-D3D12CreateDevice({adapter}, {D3D_FEATURE_LEVEL}, IID_PPV_ARGS(&{device pointer}))
+D3D12CreateDevice
+(
+    {adapter}, {D3D_FEATURE_LEVEL},
+    IID_PPV_ARGS(&{device pointer})
+)
 ```
 ```
 3. 명령 큐 생성
-CreateCommandQueue(&{command queue descriptor}}, IID_PPV_ARGS(&{command queue pointer}})
+CreateCommandQueue
+(
+    &{command queue descriptor}}, IID_PPV_ARGS(&{command queue pointer}}
+)
 ```
 ```
 4. 스왑 체인 생성
 {
-// Describe and create the swap chain
-// initialize BufferCount, Width, Height, etc
+    // Describe and create the swap chain
+    // initialize BufferCount, Width, Height, etc
 }
 
-CreateSwapChainForHwnd(&{command queue pointer}, {HWND}, &{Swap chain descriptor}, &{full screen descriptor}, &{restrict to output}, &{swapchain pointer})
+CreateSwapChainForHwnd
+(
+    &{command queue pointer}, {HWND}, &{Swap chain descriptor},
+    &{full screen descriptor}, &{restrict to output}, &{swapchain pointer}
+)
 ```
 ```
 5. RTV(Rendering Target View) 설명자 힙 생성   
@@ -56,7 +71,10 @@ CreateSwapChainForHwnd(&{command queue pointer}, {HWND}, &{Swap chain descriptor
 ```
 ```
 7. 명령 할당자 생성
-CreateCommandAllocator({D3D12_COMMAND_LIST_TYPE}, IID_PPV_ARGS(&{command Allocator pointer})
+CreateCommandAllocator
+(
+    {D3D12_COMMAND_LIST_TYPE}, IID_PPV_ARGS(&{command Allocator pointer}
+)
 ```
 -----------
 ### 자산 초기화
