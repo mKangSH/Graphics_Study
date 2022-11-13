@@ -19,8 +19,9 @@
     - [1.2 Asset Initialize](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/1.%20DirectX%20Basic%20Component/2.%20Asset%20Initialize.md)
   
 # Reference
-_Real-Time Rendering_ [book info](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=440471)   
-Tomas Akenine-moller, EricHaines,『Real-Time Rendering 2판, 신병석, 오경수 공역, 정보문화사(2003)    
+_Real-Time Rendering_    
+Tomas Akenine-moller, EricHaines,『Real-Time Rendering 2판, 신병석, 오경수 공역, 정보문화사(2003)   
+[book info](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=440471) 
 
 _DirectX12_   
 [MS_Document](https://learn.microsoft.com/ko-kr/windows/win32/direct3d12/directx-12-programming-guide)   
