@@ -17,6 +17,8 @@
 1. [DirectX Basic Component](https://github.com/mKangSH/Graphics_Study/tree/main/DirectX/1.%20DirectX%20Basic%20Component)
     - 1.1 [Pipeline Initialize](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/1.%20DirectX%20Basic%20Component/1.%20Pipeline%20Initialize.md)
     - 1.2 [Asset Initialize](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/1.%20DirectX%20Basic%20Component/2.%20Asset%20Initialize.md)
+    - 1.3 Update (Nothing is updated, I will upload when I will try complex project)
+    - 1.4 [Render](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/1.%20DirectX%20Basic%20Component/4.%20Render.md)
   
 # Reference
 _Real-Time Rendering_    
