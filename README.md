@@ -1,6 +1,6 @@
 # Graphics_Study
 - Computer Graphics (DirectX, Vulkan)
-- DirectX12, Vulkan Study(2022-11-11~)
+- DirectX12, Real-time Rendering Study(2022-11-11~)
 
 # Real-Time Rendering contents
 ### (initial update 2022-11-10)
@@ -26,13 +26,14 @@
 1. [Basic Implementation](https://github.com/mKangSH/Graphics_Study/tree/main/DirectX/Result%20and%20Error/1.%20Basic%20Implementation)
 
 # Reference
-_Real-Time Rendering_    
-Tomas Akenine-moller, EricHaines,『Real-Time Rendering 2판, 신병석, 오경수 공역, 정보문화사(2003)   
+- _Real-Time Rendering_    
+    - Tomas Akenine-moller, EricHaines,『Real-Time Rendering 2판, 신병석, 오경수 공역, 정보문화사(2003)   
 [Book information](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=440471) 
+- _DirectX12_   
+    - [Microsoft_Document](https://learn.microsoft.com/ko-kr/windows/win32/direct3d12/directx-12-programming-guide)   
+    - [Microsoft_SampleCode](https://github.com/Microsoft/DirectX-Graphics-Samples)
+- _Vulkan_   
+    - [Vulkan_Tutorial](https://vulkan-tutorial.com/)
 
-_DirectX12_   
-[Microsoft_Document](https://learn.microsoft.com/ko-kr/windows/win32/direct3d12/directx-12-programming-guide)   
-[Microsoft_SampleCode](https://github.com/Microsoft/DirectX-Graphics-Samples)
-
-_Vulkan_   
-[Vulkan_Tutorial](https://vulkan-tutorial.com/)
+# Compiler Program
+- Visual Studio 2022
