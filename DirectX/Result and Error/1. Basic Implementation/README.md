@@ -12,6 +12,7 @@
 - 해결: 문제가 발생한 에러 스택 지점 확인
    
 <img src="https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/Result%20and%20Error/1.%20Basic%20Implementation/Error%20Stack.PNG" title=""></img>   
+
 - 마지막 스택인 ThrowIfFailed()는 문제가 생겼을 때 std::exception()을 던지는 함수   
 - AssetInit() 함수 내부인 line: 133에 중단점을 걸고 Visual Studio local debugger를 실행   
 - 경로를 가져오는 GetAssetFullPath() 함수 내부 리턴 값: m_assetsPath + assetName 두 변수를 조사   
