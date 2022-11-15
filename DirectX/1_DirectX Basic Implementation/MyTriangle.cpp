@@ -158,14 +158,14 @@ void D3D12MyTriangle::AssetInit()
     ThrowIfFailed(mDevice->CreateCommandList(0, D3D12_COMMAND_LIST_TYPE_DIRECT, mCommandAllocator.Get(), mPipelineState.Get(), IID_PPV_ARGS(&mCommandList)));
     ThrowIfFailed(mCommandList->Close());
 
-    Vertex RectangleVertices[] =
+    Vertex TriangleVertices[] =
     {
         { {-0.25f, -0.25f * m_aspectRatio, 0.0f}, {1.0f, 0.0f, 0.0f, 1.0f} },
         { {-0.25f, 0.25f * m_aspectRatio, 0.0f}, {0.5f, 0.5f, 0.5f, 1.0f} },
         { {0.25f, 0.25f * m_aspectRatio, 0.0f}, {0.0f, 1.0f, 0.0f, 1.0f} },
     };
 
-    const UINT vertexBufferSize = sizeof(RectangleVertices);
+    const UINT vertexBufferSize = sizeof(TriangleVertices);
 
     CD3DX12_HEAP_PROPERTIES heapProps(D3D12_HEAP_TYPE_UPLOAD);
     auto desc = CD3DX12_RESOURCE_DESC::Buffer(vertexBufferSize);
@@ -180,7 +180,7 @@ void D3D12MyTriangle::AssetInit()
     UINT8 *pVertexDataBegin;
     CD3DX12_RANGE readRange(0, 0);
     ThrowIfFailed(mVertexBuffer->Map(0, &readRange, reinterpret_cast<void**>(&pVertexDataBegin)));
-    memcpy(pVertexDataBegin, RectangleVertices, sizeof(RectangleVertices));
+    memcpy(pVertexDataBegin, TriangleVertices, sizeof(TriangleVertices));
     mVertexBuffer->Unmap(0, nullptr);
 
     mVertexBufferView.BufferLocation = mVertexBuffer->GetGPUVirtualAddress();
