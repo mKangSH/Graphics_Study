@@ -20,7 +20,11 @@
     - 1.3 Update 
         - (Nothing is updated, I will upload when I will try complex project)
     - 1.4 [Render and destroy](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/1.%20DirectX%20Basic%20Component/4.%20Render%20and%20Destroy.md)
-  
+
+# DirectX12 Mistakes and Solution
+### (initial update 2022-11-15)
+1. [Basic Implementation](https://github.com/mKangSH/Graphics_Study/tree/main/DirectX/Result%20and%20Error/1.%20Basic%20Implementation)
+
 # Reference
 _Real-Time Rendering_    
 Tomas Akenine-moller, EricHaines,『Real-Time Rendering 2판, 신병석, 오경수 공역, 정보문화사(2003)   
