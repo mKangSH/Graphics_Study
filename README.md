@@ -2,28 +2,28 @@
 - Computer Graphics (DirectX, Vulkan)
 - DirectX12, Real-time Rendering Study(2022-11-11~)
 
-# Real-Time Rendering contents
+# Real-Time Rendering 목차
 ### (initial update 2022-11-10)
-1. Introduction (skip)
-2. Graphic Pipeline (need to upload)
-3. Transform (need to upload)
-4. [Visual Appearance](https://github.com/mKangSH/Graphics_Study/tree/main/Real-Time%20Rendering/4.%20Visual%20Appearance)
-    - 4.1 [Visual Appearance Concepts](https://github.com/mKangSH/Graphics_Study/blob/main/Real-Time%20Rendering/4.%20Visual%20Appearance/4.1%20Visual%20Appearance.md)
-    - 4.2 [Lighting Model and Equation](https://github.com/mKangSH/Graphics_Study/blob/main/Real-Time%20Rendering/4.%20Visual%20Appearance/4.2%20Lighting%20Model%20and%20Equation.md)
-    - 4.3 [Aliasing and Anti-Aliasing](https://github.com/mKangSH/Graphics_Study/blob/main/Real-Time%20Rendering/4.%20Visual%20Appearance/4.3%20Aliasing%20and%20Anti-aliasing.md)   
+1. 소개 (Introduction) [skip]
+2. 그래픽 파이프라인 (Graphics Pipeline) [need to upload]
+3. 변환 (Transform) [need to upload]
+4. [시각적 외향 (Visual Appearance)](https://github.com/mKangSH/Graphics_Study/tree/main/Real-Time%20Rendering/4.%20Visual%20Appearance)
+    - 4.1 [시각적 외향 개념 (Concepts)](https://github.com/mKangSH/Graphics_Study/blob/main/Real-Time%20Rendering/4.%20Visual%20Appearance/4.1%20Visual%20Appearance.md)
+    - 4.2 [조명 모델과 조명 처리식 (Lighting Model and Equation)](https://github.com/mKangSH/Graphics_Study/blob/main/Real-Time%20Rendering/4.%20Visual%20Appearance/4.2%20Lighting%20Model%20and%20Equation.md)
+    - 4.3 [앨리어싱과 안티 앨리어싱 (Aliasing and Anti-Aliasing)](https://github.com/mKangSH/Graphics_Study/blob/main/Real-Time%20Rendering/4.%20Visual%20Appearance/4.3%20Aliasing%20and%20Anti-aliasing.md)   
     
-# DirectX12 contents
+# DirectX12 목차
 ### (initial update 2022-11-13)
-1. [DirectX Basic Component](https://github.com/mKangSH/Graphics_Study/tree/main/DirectX/1.%20DirectX%20Basic%20Component)
-    - 1.1 [Pipeline Initialize](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/1.%20DirectX%20Basic%20Component/1.%20Pipeline%20Initialize.md)
-    - 1.2 [Asset Initialize](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/1.%20DirectX%20Basic%20Component/2.%20Asset%20Initialize.md)
+1. [DirectX 기본 구조 (Basic Component)](https://github.com/mKangSH/Graphics_Study/tree/main/DirectX/1.%20DirectX%20Basic%20Component)
+    - 1.1 [파이프라인 초기화 (Pipeline Initialize)](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/1.%20DirectX%20Basic%20Component/1.%20Pipeline%20Initialize.md)
+    - 1.2 [자산 초기화 (Asset Initialize)](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/1.%20DirectX%20Basic%20Component/2.%20Asset%20Initialize.md)
     - 1.3 Update 
         - (Nothing is updated, I will upload when I will try complex project)
-    - 1.4 [Render and destroy](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/1.%20DirectX%20Basic%20Component/4.%20Render%20and%20Destroy.md)
+    - 1.4 [렌더링 및 파괴 (Render and destroy)](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/1.%20DirectX%20Basic%20Component/4.%20Render%20and%20Destroy.md)
 
 # DirectX12 Mistakes and Solution
 ### (initial update 2022-11-15)
-1. [Basic Implementation](https://github.com/mKangSH/Graphics_Study/tree/main/DirectX/Result%20and%20Error/1.%20Basic%20Implementation)
+1. [기본적인 구현 (Basic Implementation)](https://github.com/mKangSH/Graphics_Study/tree/main/DirectX/Result%20and%20Error/1.%20Basic%20Implementation)
 
 # Reference
 - _Real-Time Rendering_    
