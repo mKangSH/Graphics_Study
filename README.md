@@ -24,6 +24,7 @@
     - 1.3 Update 
         - (Nothing is updated, I will upload when I will try complex project)
     - 1.4 [렌더링 및 파괴 (Render and destroy)](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/1.%20DirectX%20Basic%20Component/4.%20Render%20and%20Destroy.md)
+    - 1_ [기본 구조 구현 소스 코드(Basic implementation source code)](https://github.com/mKangSH/Graphics_Study/tree/main/DirectX/1_DirectX%20Basic%20Implementation)
 
 # DirectX12 Mistakes and Solution
 ### (initial update 2022-11-15)
