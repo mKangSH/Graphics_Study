@@ -130,8 +130,9 @@ void D3D12MyTriangle::AssetInit()
     UINT compilerFlags = 0;
 #endif
 
-    ThrowIfFailed(D3DCompileFromFile(GetAssetFullPath(L"shaders.hlsl").c_str(), nullptr, nullptr, "VSMain", "vs_5_0", compileFlags, 0, &vertexShader, nullptr));
-    ThrowIfFailed(D3DCompileFromFile(GetAssetFullPath(L"shaders.hlsl").c_str(), nullptr, nullptr, "PSMain", "ps_5_0", compileFlags, 0, &pixelShader, nullptr));
+    std::wstring shadersFilePath = L"shaders.hlsl";
+    ThrowIfFailed(D3DCompileFromFile(shadersFilePath.c_str(), nullptr, nullptr, "VSMain", "vs_5_0", compileFlags, 0, &vertexShader, nullptr));
+    ThrowIfFailed(D3DCompileFromFile(shadersFilePath.c_str(), nullptr, nullptr, "PSMain", "ps_5_0", compileFlags, 0, &pixelShader, nullptr));
 
     D3D12_INPUT_ELEMENT_DESC inputElementDescs[] =
     {

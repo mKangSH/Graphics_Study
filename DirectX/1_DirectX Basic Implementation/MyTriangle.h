@@ -1,6 +1,7 @@
 #pragma once
 
 #include "DXSample.h"
+
 using namespace DirectX;
 
 using Microsoft::WRL::ComPtr;
