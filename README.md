@@ -2,6 +2,13 @@
 - Computer Graphics (DirectX, Vulkan)
 - DirectX12, Real-time Rendering Study(2022-11-11~)
 
+# DirectX12 코드 구현 결과
+- [결과 모음 (code results for each chapter)](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/README.md)
+
+# DirectX12 실수 및 해결
+### (initial update 2022-11-15)
+1. [기본적인 구현 (Basic Implementation)](https://github.com/mKangSH/Graphics_Study/tree/main/DirectX/Result%20and%20Error/1.%20Basic%20Implementation)
+
 # Real-Time Rendering 목차
 ### (initial update 2022-11-10)
 1. 소개 (Introduction) [skip]
@@ -27,10 +34,6 @@
     - 1_ [기본 구조 구현 소스 코드 (Basic implementation source code)](https://github.com/mKangSH/Graphics_Study/tree/main/DirectX/1_DirectX%20Basic%20Implementation)
 2. [DirectX 세부 내용 (Details)](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/2.%20DirectX%20Details)
     - 2.1 [명령 목록과 명령 큐 (Command list and Command queue)](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/2.%20DirectX%20Details/1.%20Command%20list%20and%20Command%20queue.md)
-    
-# DirectX12 실수 및 해결
-### (initial update 2022-11-15)
-1. [기본적인 구현 (Basic Implementation)](https://github.com/mKangSH/Graphics_Study/tree/main/DirectX/Result%20and%20Error/1.%20Basic%20Implementation)
 
 # Reference
 - _Real-Time Rendering_    
