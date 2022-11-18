@@ -34,6 +34,7 @@
     - 1_ [기본 구조 구현 소스 코드 (Basic implementation source code)](https://github.com/mKangSH/Graphics_Study/tree/main/DirectX/1_DirectX%20Basic%20Implementation)
 2. [DirectX 세부 내용 (Details)](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/2.%20DirectX%20Details)
     - 2.1 [명령 목록과 명령 큐 (Command list and Command queue)](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/2.%20DirectX%20Details/1.%20Command%20list%20and%20Command%20queue.md)
+    - 2_ [상수 버퍼와 번들 (Constant buffer and Bundle)](https://github.com/mKangSH/Graphics_Study/tree/main/DirectX/2_%20DirectX%20Constant%20Buffer%20and%20Bundle)
 
 ## Reference
 - _Real-Time Rendering_    
