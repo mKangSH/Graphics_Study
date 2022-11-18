@@ -2,14 +2,14 @@
 - Computer Graphics (DirectX, Vulkan)
 - DirectX12, Real-time Rendering Study(2022-11-11~)
 
-# DirectX12 코드 구현 결과
+## DirectX12 코드 구현 결과
 - [결과 모음 (code results for each chapter)](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/README.md)
 
-# DirectX12 실수 및 해결
+## DirectX12 실수 및 해결
 ### (initial update 2022-11-15)
 1. [기본적인 구현 (Basic Implementation)](https://github.com/mKangSH/Graphics_Study/tree/main/DirectX/Result%20and%20Error/1.%20Basic%20Implementation)
 
-# Real-Time Rendering 목차
+## Real-Time Rendering 목차
 ### (initial update 2022-11-10)
 1. 소개 (Introduction) [skip]
 2. [그래픽 렌더링 파이프라인 (Graphic Rendering Pipeline)](https://github.com/mKangSH/Graphics_Study/tree/main/Real-Time%20Rendering)
@@ -23,7 +23,7 @@
     - 4.2 [조명 모델과 조명 처리식 (Lighting Model and Equation)](https://github.com/mKangSH/Graphics_Study/blob/main/Real-Time%20Rendering/4.%20Visual%20Appearance/4.2%20Lighting%20Model%20and%20Equation.md)
     - 4.3 [앨리어싱과 안티 앨리어싱 (Aliasing and Anti-Aliasing)](https://github.com/mKangSH/Graphics_Study/blob/main/Real-Time%20Rendering/4.%20Visual%20Appearance/4.3%20Aliasing%20and%20Anti-aliasing.md)   
     
-# DirectX12 목차
+## DirectX12 목차
 ### (initial update 2022-11-13)
 1. [DirectX 기본 구조 (Basic Component)](https://github.com/mKangSH/Graphics_Study/tree/main/DirectX/1.%20DirectX%20Basic%20Component)
     - 1.1 [파이프라인 초기화 (Pipeline Initialize)](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/1.%20DirectX%20Basic%20Component/1.%20Pipeline%20Initialize.md)
@@ -35,7 +35,7 @@
 2. [DirectX 세부 내용 (Details)](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/2.%20DirectX%20Details)
     - 2.1 [명령 목록과 명령 큐 (Command list and Command queue)](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/2.%20DirectX%20Details/1.%20Command%20list%20and%20Command%20queue.md)
 
-# Reference
+## Reference
 - _Real-Time Rendering_    
     - Tomas Akenine-moller, EricHaines,『Real-Time Rendering 2판, 신병석, 오경수 공역, 정보문화사(2003)   
 [Book information](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=440471) 
@@ -45,5 +45,5 @@
 - _Vulkan_   
     - [Vulkan_Tutorial](https://vulkan-tutorial.com/)
 
-# Compiler Program
+## Compiler Program
 - Visual Studio 2022
