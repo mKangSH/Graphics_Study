@@ -16,6 +16,6 @@
     - m_assetsPath에 해당하는 폴더에 "shaders.hlsl" 파일을 추가하여 해결
     - GetAssetFullPath() 함수 대신 std::wstring 을 이용하여 직접 경로 변수를 정의하여 인자로 대입하여 해결
 ```
-std::wstring shaderFilePath = L"./shaders.hlsl" // cpp 파일과 hlsl 파일을 동일 경로에 지정
+std::wstring shaderFilePath = L"./shaders.hlsl" // hlsl 파일을 프로젝트 경로에 
 D3DCompileFromFile(shaderFilePath.c_str(), ...);
 ```
