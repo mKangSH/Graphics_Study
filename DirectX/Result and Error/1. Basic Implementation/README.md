@@ -14,6 +14,7 @@
     - AssetInit() 함수 내부인 line: 133에 중단점을 걸고 Visual Studio local debugger를 실행   
     - 경로를 가져오는 GetAssetFullPath() 함수 내부 리턴 값: m_assetsPath + assetName 두 변수를 조사   
     - m_assetsPath에 해당하는 폴더에 "shaders.hlsl" 파일을 추가하여 해결
+    - GetAssetFullPath() 함수 대신 std::wstring 을 이용하여 직접 경로 변수를 정의하여 인자로 대입하여 해결
 
 <img src="https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/Result%20and%20Error/1.%20Basic%20Implementation/Error%20Stack.PNG" title=""></img>   
 
