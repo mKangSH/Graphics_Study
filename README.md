@@ -45,6 +45,7 @@
 - _DirectX12_   
     - [Microsoft_Document](https://learn.microsoft.com/ko-kr/windows/win32/direct3d12/directx-12-programming-guide)   
     - [Microsoft_SampleCode](https://github.com/Microsoft/DirectX-Graphics-Samples)
+    - [Microsoft DirectX 12 and Graphics Education on Youtube](https://www.youtube.com/channel/UCiaX2B8XiXR70jaN7NK-FpA)
 - _Vulkan_   
     - [Vulkan_Tutorial](https://vulkan-tutorial.com/)
 
