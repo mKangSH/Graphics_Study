@@ -32,12 +32,12 @@
     - 1.3 Update 
         - (Nothing is updated, I will upload when I will try complex project)
     - 1.4 [렌더링 및 파괴 (Render and destroy)](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/MSDocs%20Summary/1.%20DirectX%20Basic%20Component/4.%20Render%20and%20Destroy.md)
-    - 1_ [기본 구조 구현 소스 코드 (Basic implementation source code)](https://github.com/mKangSH/Graphics_Study/tree/main/DirectX/Implementation/1_DirectX%20Basic%20Implementation)
+    - 1_ [기본 구조 구현 소스 코드 (Basic implementation source code)](https://github.com/mKangSH/Graphics_Study/tree/main/DirectX/Implementation/1.%20DirectX%20Basic%20Implementation)
 2. [DirectX 명령과 파이프라인 (Command and Pipeline)](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/MSDocs%20Summary/2.%20DirectX%20Command%20and%20Pipeline)
     - 2.1 [명령 목록과 명령 큐 (Command list and Command queue)](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/MSDocs%20Summary/2.%20DirectX%20Command%20and%20Pipeline/1.%20Command%20list%20and%20Command%20queue.md)
     - 2.2 [파이프라인 상태 (Pipeline State)](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/MSDocs%20Summary/2.%20DirectX%20Command%20and%20Pipeline/2.%20Pipeline%20State.md)
     - 2.3 [리소스 장벽 (Resource Barrier)](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/MSDocs%20Summary/2.%20DirectX%20Command%20and%20Pipeline/3.%20Resource%20Barrier.md)
-    - 2_ [상수 버퍼와 번들 (Constant buffer and Bundle)](https://github.com/mKangSH/Graphics_Study/tree/main/DirectX/Implementation/2_%20DirectX%20Constant%20Buffer%20and%20Bundle)
+    - 2_ [상수 버퍼와 번들 (Constant buffer and Bundle)](https://github.com/mKangSH/Graphics_Study/tree/main/DirectX/Implementation/2.%20DirectX%20Constant%20Buffer%20and%20Bundle)
 3. [DirectX 리소스 바인딩 (Resource Binding)](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/MSDocs%20Summary/3.%20DirectX%20Resource%20Binding)
     - 3.1 [설명자 (Descriptor)](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/MSDocs%20Summary/3.%20DirectX%20Resource%20Binding/1.%20Descriptor.md)
 
