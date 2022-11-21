@@ -20,9 +20,10 @@
     - 3.3 [사원수 (Quarternions)](https://github.com/mKangSH/Graphics_Study/blob/main/Real-Time%20Rendering/3.%20Transformation/3.%20Quarternions.md)
     - 3.4 [투영 (Projection)](https://github.com/mKangSH/Graphics_Study/blob/main/Real-Time%20Rendering/3.%20Transformation/4.%20Projection.md)
 4. [시각적 외향 (Visual Appearance)](https://github.com/mKangSH/Graphics_Study/tree/main/Real-Time%20Rendering/4.%20Visual%20Appearance)
-    - 4.1 [시각적 외향 개념 (Concepts)](https://github.com/mKangSH/Graphics_Study/blob/main/Real-Time%20Rendering/4.%20Visual%20Appearance/4.1%20Visual%20Appearance.md)
-    - 4.2 [조명 모델과 조명 처리식 (Lighting Model and Equation)](https://github.com/mKangSH/Graphics_Study/blob/main/Real-Time%20Rendering/4.%20Visual%20Appearance/4.2%20Lighting%20Model%20and%20Equation.md)
-    - 4.3 [앨리어싱과 안티 앨리어싱 (Aliasing and Anti-Aliasing)](https://github.com/mKangSH/Graphics_Study/blob/main/Real-Time%20Rendering/4.%20Visual%20Appearance/4.3%20Aliasing%20and%20Anti-aliasing.md)   
+    - 4.1 [시각적 외향 개념 (Concepts)](https://github.com/mKangSH/Graphics_Study/blob/main/Real-Time%20Rendering/4.%20Visual%20Appearance/1.%20Visual%20Appearance.md)
+    - 4.2 [조명 모델과 조명 처리식 (Lighting Model and Equation)](https://github.com/mKangSH/Graphics_Study/blob/main/Real-Time%20Rendering/4.%20Visual%20Appearance/2.%20Lighting%20Model%20and%20Equation.md)
+    - 4.3 [앨리어싱과 안티 앨리어싱 (Aliasing and Anti-Aliasing)](https://github.com/mKangSH/Graphics_Study/blob/main/Real-Time%20Rendering/4.%20Visual%20Appearance/3.%20Anti-aliasing.md)
+    - 4.3 [투명도와 안개 (Transparency and Fog)](https://github.com/mKangSH/Graphics_Study/blob/main/Real-Time%20Rendering/4.%20Visual%20Appearance/4.%20Transparency%20and%20Fog.md)
     
 ## DirectX12 목차
 ### (initial update 2022-11-13)
@@ -43,8 +44,9 @@
 
 ## Reference
 - _Real-Time Rendering_    
-    - Tomas Akenine-moller, EricHaines,『Real-Time Rendering 2판, 신병석, 오경수 공역, 정보문화사(2003)   
-[Book information](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=440471) 
+    - Tomas Akenine-moller, EricHaines,『Real-Time Rendering 2판, 신병석, 오경수 공역, 정보문화사(2003)
+    [Book information](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=440471)
+    - [투명도(Transparency) 렌더링, NVIDIA](https://developer.nvidia.com/content/transparency-or-translucency-rendering)
 - _DirectX12_   
     - [Microsoft_Document](https://learn.microsoft.com/ko-kr/windows/win32/direct3d12/directx-12-programming-guide)   
     - [Microsoft_SampleCode](https://github.com/Microsoft/DirectX-Graphics-Samples)
