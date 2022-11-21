@@ -38,6 +38,7 @@
     - 2.2 [파이프라인 상태 (Pipeline State)](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/2.%20DirectX%20Command%20and%20Pipeline/2.%20Pipeline%20State.md)
     - 2.3 [리소스 장벽 (Resource Barrier)](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/2.%20DirectX%20Command%20and%20Pipeline/3.%20Resource%20Barrier.md)
     - 2_ [상수 버퍼와 번들 (Constant buffer and Bundle)](https://github.com/mKangSH/Graphics_Study/tree/main/DirectX/2_%20DirectX%20Constant%20Buffer%20and%20Bundle)
+3. [DirectX 리소스 바인딩(Resource Binding)](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/3.%20DirectX%20Resource%20Binding)
 
 ## Reference
 - _Real-Time Rendering_    
