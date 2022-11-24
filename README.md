@@ -41,6 +41,7 @@
     - 2_ [상수 버퍼와 번들 (Constant buffer and Bundle)](https://github.com/mKangSH/Graphics_Study/tree/main/DirectX/Implementation/2.%20DirectX%20Constant%20Buffer%20and%20Bundle)
 3. [DirectX 리소스 바인딩 (Resource Binding)](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/MSDocs%20Summary/3.%20DirectX%20Resource%20Binding)
     - 3.1 [설명자 (Descriptor)](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/MSDocs%20Summary/3.%20DirectX%20Resource%20Binding/1.%20Descriptor.md)
+    - 3.2 [설명자 힙 (Descriptor Heap)](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/MSDocs%20Summary/3.%20DirectX%20Resource%20Binding/2.%20Descriptor%20Heap.md)
 
 ## Reference
 - _Real-Time Rendering_    
