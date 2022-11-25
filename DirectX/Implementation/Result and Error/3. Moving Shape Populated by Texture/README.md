@@ -4,7 +4,7 @@
 <img src="https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/Implementation/Result%20and%20Error/3.%20Moving%20Shape%20Populated%20by%20Texture/E_INVALIDARG.PNG" title=""></img>  
 - 해결: 배열의 크기를 루트 매개변수가 정의된 개수(2개)로 수정하여 진행
 
-## Error 2 (연관되어 있는 변수를 모두 확인하자)
+## Error 2 (연관되어 있는 변수를 모두 확인해야 함)
 - 문제: 파이프라인 상태 개체와 루트 서명의 초기화 값이 일치하지 않는 문제     
 <img src="https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/Implementation/Result%20and%20Error/3.%20Moving%20Shape%20Populated%20by%20Texture/NotPopulateSamplerArgument.PNG" title=""></img>      
 <img src="https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/Implementation/Result%20and%20Error/3.%20Moving%20Shape%20Populated%20by%20Texture/CallingStack.PNG" title=""></img>      
