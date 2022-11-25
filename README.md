@@ -7,10 +7,12 @@
 - [결과 모음 (code results for each chapter)](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/Implementation/README.md)
 - 실수 및 해결
     - 1\. [기본적인 구현 (Basic Implementation)](https://github.com/mKangSH/Graphics_Study/tree/main/DirectX/Implementation/Result%20and%20Error/1.%20Basic%20Implementation)
+    - 2\. 상수 버퍼와 번들 (Constant Buffer and Bundle) [Skip: no error]
+    - 3\. [텍스처로 채운 움직이는 모양(Moving Shape populated by Texture)](https://github.com/mKangSH/Graphics_Study/tree/main/DirectX/Implementation/Result%20and%20Error/3.%20Moving%20Shape%20Populated%20by%20Texture) [working...]
 
 ## Real-Time Rendering 목차
 ### (initial update 2022-11-10)
-1. 소개 (Introduction) [skip]
+1. 소개 (Introduction) [Skip]
 2. [그래픽 렌더링 파이프라인 (Graphic Rendering Pipeline)](https://github.com/mKangSH/Graphics_Study/tree/main/Real-Time%20Rendering)
     - 2.1 [파이프라인 구조 (Pipeline Structure)](https://github.com/mKangSH/Graphics_Study/blob/main/Real-Time%20Rendering/2.%20Graphic%20Rendering%20Pipeline/1.%20Pipline%20Structure.md)
     - 2.2 [파이프라인 세부 단계 (Pipeline Stage)](https://github.com/mKangSH/Graphics_Study/blob/main/Real-Time%20Rendering/2.%20Graphic%20Rendering%20Pipeline/2.%20Pipeline%20Stage.md)
