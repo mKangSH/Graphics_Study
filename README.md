@@ -1,5 +1,5 @@
 # Graphics_Study
-- Computer Graphics (DirectX, Vulkan)
+- Computer Graphics (DirectX12)
 - DirectX12, Real-time Rendering Study(2022-11-11~)
 - Compiler Program: Visual Studio 2022
 
