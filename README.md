@@ -10,6 +10,7 @@
     - 2\. 상수 버퍼와 번들 (Constant Buffer and Bundle) [Skip: no error]
     - 3\. [텍스처로 채운 움직이는 모양(Moving Shape populated by Texture)](https://github.com/mKangSH/Graphics_Study/tree/main/DirectX/Implementation/Result%20and%20Error/3.%20Moving%20Shape%20Populated%20by%20Texture) [working...]
 
+<<<<<<< Updated upstream
 ## Real-Time Rendering 목차
 ### (initial update 2022-11-10)
 1. 소개 (Introduction) [Skip]
@@ -26,6 +27,9 @@
     - 4.2 [조명 모델과 조명 처리식 (Lighting Model and Equation)](https://github.com/mKangSH/Graphics_Study/blob/main/Real-Time%20Rendering/4.%20Visual%20Appearance/2.%20Lighting%20Model%20and%20Equation.md)
     - 4.3 [안티 앨리어싱 (Anti-Aliasing)](https://github.com/mKangSH/Graphics_Study/blob/main/Real-Time%20Rendering/4.%20Visual%20Appearance/3.%20Anti-aliasing.md)
     - 4.3 [투명도와 안개 (Transparency and Fog)](https://github.com/mKangSH/Graphics_Study/blob/main/Real-Time%20Rendering/4.%20Visual%20Appearance/4.%20Transparency%20and%20Fog.md)
+=======
+## [Real-Time Rendering 목차](https://github.com/mKangSH/Graphics_Study/blob/main/Real-Time%20Rendering/README.md)
+>>>>>>> Stashed changes
     
 ## DirectX12 목차
 ### (initial update 2022-11-13)
