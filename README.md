@@ -47,7 +47,7 @@
 
 ## Reference
 - _Real-Time Rendering_    
-    - Tomas Akenine-moller, EricHaines,『Real-Time Rendering 2판, 신병석, 오경수 공역, 정보문화사(2003)
+    - Tomas Akenine-moller, EricHaines,『Real-Time Rendering 2판, 신병석, 오경수 공역, 정보문화사(2003)   
     [Book information](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=440471)
     - [투명도(Transparency) 렌더링, NVIDIA](https://developer.nvidia.com/content/transparency-or-translucency-rendering)
 - _DirectX12_   
