@@ -2,13 +2,14 @@
 - Computer Graphics (DirectX, Vulkan)
 - DirectX12, Real-time Rendering Study(2022-11-11~)
 
-## DirectX12 결과, 실수 및 해결
+## DirectX12 구현 결과
 - (initial update 2022-11-15)
 - [결과 모음 (code results for each chapter)](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/Implementation/README.md)
-- 실수 및 해결
-    - 1\. [기본적인 구현 (Basic Implementation)](https://github.com/mKangSH/Graphics_Study/tree/main/DirectX/Implementation/Result%20and%20Error/1.%20Basic%20Implementation)
-    - 2\. 상수 버퍼와 번들 (Constant Buffer and Bundle) [Skip: no error]
-    - 3\. [텍스처로 채운 움직이는 모양(Moving Shape populated by Texture)](https://github.com/mKangSH/Graphics_Study/tree/main/DirectX/Implementation/Result%20and%20Error/3.%20Moving%20Shape%20Populated%20by%20Texture)    
+
+## DirectX12 실수 및 해결
+- 1\. [기본적인 구현 (Basic Implementation)](https://github.com/mKangSH/Graphics_Study/tree/main/DirectX/Implementation/Result%20and%20Error/1.%20Basic%20Implementation)
+- 2\. 상수 버퍼와 번들 (Constant Buffer and Bundle) [Skip: no error]
+- 3\. [텍스처로 채운 움직이는 모양(Moving Shape populated by Texture)](https://github.com/mKangSH/Graphics_Study/tree/main/DirectX/Implementation/Result%20and%20Error/3.%20Moving%20Shape%20Populated%20by%20Texture)    
     [working...]   
 
 ## [Real-Time Rendering 목차](https://github.com/mKangSH/Graphics_Study/blob/main/Real-Time%20Rendering/README.md)
