@@ -12,24 +12,10 @@
     [working...]   
 
 ## [Real-Time Rendering 목차](https://github.com/mKangSH/Graphics_Study/blob/main/Real-Time%20Rendering/README.md)
+- (initial update 2022-11-10)
     
-## DirectX12 목차
-### (initial update 2022-11-13)
-1. [DirectX 기본 구조 (Basic Component)](https://github.com/mKangSH/Graphics_Study/tree/main/DirectX/MSDocs%20Summary/1.%20DirectX%20Basic%20Component)
-    - 1.1 [파이프라인 초기화 (Pipeline Initialize)](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/MSDocs%20Summary/1.%20DirectX%20Basic%20Component/1.%20Pipeline%20Initialize.md)
-    - 1.2 [자산 초기화 (Asset Initialize)](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/MSDocs%20Summary/1.%20DirectX%20Basic%20Component/2.%20Asset%20Initialize.md)
-    - 1.3 Update 
-        - (Nothing is updated, I will upload when I will try complex project)
-    - 1.4 [렌더링 및 파괴 (Render and destroy)](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/MSDocs%20Summary/1.%20DirectX%20Basic%20Component/4.%20Render%20and%20Destroy.md)
-    - 1_ [기본 구조 구현 소스 코드 (Basic implementation source code)](https://github.com/mKangSH/Graphics_Study/tree/main/DirectX/Implementation/1.%20DirectX%20Basic%20Implementation)
-2. [DirectX 명령과 파이프라인 (Command and Pipeline)](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/MSDocs%20Summary/2.%20DirectX%20Command%20and%20Pipeline)
-    - 2.1 [명령 목록과 명령 큐 (Command list and Command queue)](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/MSDocs%20Summary/2.%20DirectX%20Command%20and%20Pipeline/1.%20Command%20list%20and%20Command%20queue.md)
-    - 2.2 [파이프라인 상태 (Pipeline State)](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/MSDocs%20Summary/2.%20DirectX%20Command%20and%20Pipeline/2.%20Pipeline%20State.md)
-    - 2.3 [리소스 장벽 (Resource Barrier)](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/MSDocs%20Summary/2.%20DirectX%20Command%20and%20Pipeline/3.%20Resource%20Barrier.md)
-    - 2_ [상수 버퍼와 번들 (Constant buffer and Bundle)](https://github.com/mKangSH/Graphics_Study/tree/main/DirectX/Implementation/2.%20DirectX%20Constant%20Buffer%20and%20Bundle)
-3. [DirectX 리소스 바인딩 (Resource Binding)](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/MSDocs%20Summary/3.%20DirectX%20Resource%20Binding)
-    - 3.1 [설명자 (Descriptor)](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/MSDocs%20Summary/3.%20DirectX%20Resource%20Binding/1.%20Descriptor.md)
-    - 3.2 [설명자 힙 (Descriptor Heap)](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/MSDocs%20Summary/3.%20DirectX%20Resource%20Binding/2.%20Descriptor%20Heap.md)
+## [DirectX12 목차](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/MSDocs%20Summary/README.md)
+- (initial update 2022-11-13)
 
 ## Reference
 - _Real-Time Rendering_    
