@@ -1,6 +1,15 @@
 # Graphics_Study
 - Computer Graphics (DirectX, Vulkan)
 - DirectX12, Real-time Rendering Study(2022-11-11~)
+- Compiler Program: Visual Studio 2022
+
+## Real-Time Rendering 정리
+- [Real-Time Rendering 책 목차](https://github.com/mKangSH/Graphics_Study/blob/main/Real-Time%20Rendering/README.md)
+- (initial update 2022-11-10)
+    
+## DirectX12 정리
+- [DirectX12 마이크로소프트 문서 목차](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/MSDocs%20Summary/README.md)
+- (initial update 2022-11-13)
 
 ## DirectX12 구현 결과
 - (initial update 2022-11-15)
@@ -11,12 +20,6 @@
 - 2\. 상수 버퍼와 번들 (Constant Buffer and Bundle) [Skip: no error]
 - 3\. [텍스처로 채운 움직이는 모양(Moving Shape populated by Texture)](https://github.com/mKangSH/Graphics_Study/tree/main/DirectX/Implementation/Result%20and%20Error/3.%20Moving%20Shape%20Populated%20by%20Texture)    
     [working...]   
-
-## [Real-Time Rendering 목차](https://github.com/mKangSH/Graphics_Study/blob/main/Real-Time%20Rendering/README.md)
-- (initial update 2022-11-10)
-    
-## [DirectX12 목차](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/MSDocs%20Summary/README.md)
-- (initial update 2022-11-13)
 
 ## Reference
 - _Real-Time Rendering_    
@@ -29,6 +32,3 @@
     - [Microsoft DirectX 12 and Graphics Education on Youtube](https://www.youtube.com/channel/UCiaX2B8XiXR70jaN7NK-FpA)
 - _Vulkan_   
     - [Vulkan_Tutorial](https://vulkan-tutorial.com/)
-
-## Compiler Program
-- Visual Studio 2022
