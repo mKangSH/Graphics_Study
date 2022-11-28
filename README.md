@@ -3,7 +3,7 @@
 - DirectX12, Real-time Rendering Study(2022-11-11~)
 
 ## DirectX12 결과, 실수 및 해결
-### (initial update 2022-11-15)
+- (initial update 2022-11-15)
 - [결과 모음 (code results for each chapter)](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/Implementation/README.md)
 - 실수 및 해결
     - 1\. [기본적인 구현 (Basic Implementation)](https://github.com/mKangSH/Graphics_Study/tree/main/DirectX/Implementation/Result%20and%20Error/1.%20Basic%20Implementation)
