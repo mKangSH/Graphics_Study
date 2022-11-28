@@ -12,8 +12,8 @@
 - (initial update 2022-11-13)
 
 ## DirectX12 구현 결과
-- (initial update 2022-11-15)
 - [결과 모음 (code results for each chapter)](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/Implementation/README.md)
+- (initial update 2022-11-15)
 
 ## DirectX12 실수 및 해결
 - 1\. [기본적인 구현 (Basic Implementation)](https://github.com/mKangSH/Graphics_Study/tree/main/DirectX/Implementation/Result%20and%20Error/1.%20Basic%20Implementation)
