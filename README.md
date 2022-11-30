@@ -25,6 +25,7 @@
 - _Real-Time Rendering_    
     - Tomas Akenine-moller, EricHaines,『Real-Time Rendering 2판, 신병석, 오경수 공역, 정보문화사(2003)   
     [Book information](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=440471)
+    - [GPU Gems2 Mipmap-level measurement, NVIDIA](https://developer.nvidia.com/gpugems/gpugems2/part-iii-high-quality-rendering/chapter-28-mipmap-level-measurement)
     - [투명도(Transparency) 렌더링, NVIDIA](https://developer.nvidia.com/content/transparency-or-translucency-rendering)
 - _DirectX12_   
     - [Microsoft_Document](https://learn.microsoft.com/ko-kr/windows/win32/direct3d12/directx-12-programming-guide)   
