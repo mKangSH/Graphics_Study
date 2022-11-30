@@ -5,6 +5,7 @@
 - 해결: 배열의 크기를 루트 매개변수가 정의된 개수(2개)로 수정하여 진행
 
 ## Error 2 (연관되어 있는 변수를 모두 확인해야 함)
+- 관련된 [마이크로소프트 문서](https://learn.microsoft.com/ko-kr/windows/win32/direct3d12/using-a-root-signature) line:6 
 - 문제: 파이프라인 상태 개체와 루트 서명의 초기화 값이 일치하지 않는 문제     
 <img src="https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/Implementation/Result%20and%20Error/3.%20Moving%20Shape%20Populated%20by%20Texture/NotPopulateSamplerArgument.PNG" title=""></img>      
 <img src="https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/Implementation/Result%20and%20Error/3.%20Moving%20Shape%20Populated%20by%20Texture/CallingStack.PNG" title=""></img>      

@@ -15,3 +15,4 @@
 3. [DirectX 리소스 바인딩 (Resource Binding)](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/MSDocs%20Summary/3.%20DirectX%20Resource%20Binding)
     - 3.1 [설명자 (Descriptor)](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/MSDocs%20Summary/3.%20DirectX%20Resource%20Binding/1.%20Descriptor.md)
     - 3.2 [설명자 힙 (Descriptor Heap)](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/MSDocs%20Summary/3.%20DirectX%20Resource%20Binding/2.%20Descriptor%20Heap.md)
+    - 3.3 [루트 서명 (Root Signature)](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/MSDocs%20Summary/3.%20DirectX%20Resource%20Binding/3.%20Root%20Signature.md)
