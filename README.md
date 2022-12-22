@@ -23,7 +23,7 @@
 
 ## Reference
 - _Real-Time Rendering_    
-    - Tomas Akenine-moller, EricHaines,『Real-Time Rendering 2판, 신병석, 오경수 공역, 정보문화사(2003)   
+    - Tomas Akenine-moller, EricHaines,『Real-Time Rendering 2판』, 신병석, 오경수 공역, 정보문화사(2003)   
     [Book information](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=440471)
     - [GPU Gems2 Mipmap-level measurement, NVIDIA](https://developer.nvidia.com/gpugems/gpugems2/part-iii-high-quality-rendering/chapter-28-mipmap-level-measurement)
     - [투명도(Transparency) 렌더링, NVIDIA](https://developer.nvidia.com/content/transparency-or-translucency-rendering)
@@ -31,5 +31,8 @@
     - [Microsoft_Document](https://learn.microsoft.com/ko-kr/windows/win32/direct3d12/directx-12-programming-guide)   
     - [Microsoft_SampleCode](https://github.com/Microsoft/DirectX-Graphics-Samples)
     - [Microsoft DirectX 12 and Graphics Education on Youtube](https://www.youtube.com/channel/UCiaX2B8XiXR70jaN7NK-FpA)
+    - [Inflearn_Rookiss_Lecture](https://www.inflearn.com/course/%EC%96%B8%EB%A6%AC%EC%96%BC-3d-mmorpg-2/dashboard)
+    - Frank D. Luna『DirectX 12를 이용한 3D 프로그래밍 입문』, 류광 옮김, 한빛미디어(2017)    
+    [Book Information](https://www.hanbit.co.kr/media/books/book_view.html?p_code=B5088646371)
 - _Vulkan_   
     - [Vulkan_Tutorial](https://vulkan-tutorial.com/)
