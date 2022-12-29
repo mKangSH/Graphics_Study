@@ -9,7 +9,7 @@
     
 ## DirectX12 정리
 - [DirectX12 마이크로소프트 문서 목차](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/MSDocs%20Summary/README.md)
-- [Inflearn Rookiss 정리 노트](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/Inflearn%20Rookiss%20Lecture/README.md)
+- [Inflearn Rookiss 강의 정리 노트](https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/Inflearn%20Rookiss%20Lecture/README.md)
 - (initial update 2022-11-13)
 
 ## DirectX12 구현 결과
