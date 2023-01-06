@@ -2,7 +2,7 @@
 1. Texturing using image      
 <img src="https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/Implementation/Result%20and%20Error/Rookiss%20Lecture/Texturing.PNG" width="40%" height="30%"></img>
 
-2. Light 
+2. Light     
 <img src="https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/Implementation/Result%20and%20Error/Rookiss%20Lecture/Light%20Sample.gif" width="40%" height="30%"></img>
 
 ## Result (Based on MS Sample)
