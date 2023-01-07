@@ -5,6 +5,9 @@
 2. Light     
 <img src="https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/Implementation/Result%20and%20Error/Rookiss%20Lecture/Light%20Sample.gif" width="40%" height="30%"></img>
 
+3. Normal Mapping     
+<img src="https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/Implementation/Result%20and%20Error/Rookiss%20Lecture/Normal%20Mapping.PNG" width="40%" height="30%"></img>
+
 ## Result (Based on MS Sample)
 1. Basic Implementation     
 <img src="https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/Implementation/Result%20and%20Error/1.%20Basic%20Implementation/1_Impl%20Result.PNG" width="40%" height="30%"></img>
