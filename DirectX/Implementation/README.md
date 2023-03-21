@@ -8,6 +8,12 @@
 3. Normal Mapping     
 <img src="https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/Implementation/Result%20and%20Error/Rookiss%20Lecture/Normal%20Mapping.PNG" width="40%" height="30%"></img>
 
+4. Sky Box     
+<img src="https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/Implementation/Result%20and%20Error/Rookiss%20Lecture/SkyBox.PNG" width="40%" height="30%"></img>
+
+5. Normal Mapping     
+<img src="https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/Implementation/Result%20and%20Error/Rookiss%20Lecture/FBX%20File%20Import.PNG" width="40%" height="30%"></img>
+
 ## Result (Based on MS Sample)
 1. Basic Implementation     
 <img src="https://github.com/mKangSH/Graphics_Study/blob/main/DirectX/Implementation/Result%20and%20Error/1.%20Basic%20Implementation/1_Impl%20Result.PNG" width="40%" height="30%"></img>
